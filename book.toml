@@ -1,0 +1,6 @@
+[book]
+authors = ["Adeoye Adefemi Opeoluwa<adefemiadeoye@yahoo.com>", "Akinremi Teslim"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Red Rustaceans"
